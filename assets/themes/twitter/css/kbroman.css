@@ -9,3 +9,14 @@ code {
 a code {
   color: #08c;
 }
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+/* landing page */
+
+.page_landing {
+  text-align: center;
+  padding-top: 20vh;
+}
