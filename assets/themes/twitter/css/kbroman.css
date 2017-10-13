@@ -20,3 +20,10 @@ body {
   text-align: center;
   padding-top: 20vh;
 }
+.logo-card {
+  position: absolute;
+  top: 48%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}

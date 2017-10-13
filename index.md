@@ -3,6 +3,8 @@ layout: landing
 description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 
-![Loren Baxter]({{ "/assets/themes/twitter/img/portfolio-logo-large.svg" | absolute_url }})
+<div class="logo-card">
+  <img src="/assets/themes/twitter/img/portfolio-logo-large.svg" alt="Loren Baxter" class="portfolio-logo-large" />
 
-Designer, developer, founder.
+  <p>Designer, developer, founder.</p>
+</div>
