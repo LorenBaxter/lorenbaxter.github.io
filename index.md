@@ -1,5 +1,6 @@
 ---
 layout: landing
+title: Loren Baxter
 description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 
