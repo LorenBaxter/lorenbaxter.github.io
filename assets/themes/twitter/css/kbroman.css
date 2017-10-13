@@ -29,5 +29,5 @@ body {
 }
 
 .logo-card .portfolio-logo-large {
-  width: 320px;
+  max-width: 297px;
 }
